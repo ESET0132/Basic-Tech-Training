@@ -5,6 +5,41 @@ import './App.css'
 
 
 function counter() {
+var a = 5;
+var b = 10;
+  const add = (a,b) => a+b; 
+  console.log(add(a,b));
+  console.log("Hello World");
+  console.log(count);   //hoisting , not getting error even if count is used before declaration
+  var count = 0;
+  console.log(count);
+  count  = 5;
+  console.log(count);
+
+  const user = { name: "shivansh", age: 22 };
+  console.log(user);
+  console.log(user.name);     //destructuring
+
+  // let a = 10;
+  // let b = 20;
+  [a, b] = [b, a];   //swapping
+  console.log(a);
+  console.log(b);
+
+
+const original = [1, 2, 3];
+// const copied = [...original]; //spread operator, creates new memory reference
+const copied = original   //shallow copy, locates same memory reference
+
+console.log(copied); 
+console.log(original === copied); 
+
+
+const name = ["shivansh", "kumar", "gupta"];
+const moreNames = ["rahul", "singh", ...name]; //spread operator
+console.log(moreNames);
+
+
   return(
     <div>
       <h1 id = 'a'>0</h1>
