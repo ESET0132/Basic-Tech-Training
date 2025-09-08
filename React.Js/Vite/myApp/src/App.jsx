@@ -40,6 +40,44 @@ const moreNames = ["rahul", "singh", ...name]; //spread operator
 console.log(moreNames);
 
 
+//template literals - 08/09/2025
+const fname = "shivansh";
+const lname = "paliwal";
+const fullName = `my name is ${fname} ${lname}`;
+console.log(fullName);
+
+
+//object shorthand propertys 
+const x = 'A';
+const y = 20;
+const obj = {x, y};  //instead of x:x, y:y
+console.log(obj);
+
+
+
+//arrays- map, filter, reduce
+
+//map-> transforms each element of an array and returns a new array
+
+//map->renders a list of items in react
+const numbers = [1, 2, 3, 4, 5];
+const doubled = numbers.map((num) => num * 2);
+console.log(doubled); //[2,4,6,8,10]
+
+//filter-> filters elements based on a condition and returns a new array
+const even = numbers.filter((num) => num % 2 === 0);
+console.log(even); //[2,4]
+
+//reduce-> reduces the array to a single value by applying a function
+const sum = numbers.reduce((acc, curr) => acc + curr, 0);
+console.log(sum); //15
+//max accumulator
+const max = numbers.reduce((acc, curr) => (curr > acc ? curr : acc), numbers[0]);
+console.log(max); //5
+
+
+
+
   return(
     <div>
       <h1 id = 'a'>0</h1>
