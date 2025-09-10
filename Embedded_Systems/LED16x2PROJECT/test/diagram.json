@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno1", "top": 316.37, "left": 22.2, "attrs": {} },
+    { "type": "wokwi-lcd1602", "id": "lcd1", "top": 60, "left": 10, "attrs": {} },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 233.32,
+      "left": 282,
+      "attrs": { "value": "220" }
+    }
+  ],
+  "connections": [
+    [ "r1:1", "lcd1:A", "green", [ "v0", "h-105.6" ] ],
+    [ "r1:2", "uno1:5V", "green", [ "v192", "h-154.8" ] ],
+    [ "lcd1:VSS", "uno1:GND.1", "gold", [ "v105.6", "h96" ] ],
+    [ "lcd1:RW", "uno1:GND.1", "gray", [ "v67.2", "h57.5", "v67.2" ] ],
+    [ "lcd1:K", "uno1:GND.1", "red", [ "v57.6", "h-48" ] ],
+    [ "lcd1:VDD", "uno1:5V", "blue", [ "v115.2", "h-38.3", "v240", "h144" ] ],
+    [ "lcd1:RS", "uno1:12", "violet", [ "v115.2", "h86.7" ] ],
+    [ "lcd1:E", "uno1:11", "white", [ "v96", "h76.8" ] ],
+    [ "lcd1:D4", "uno1:10", "purple", [ "v105.6", "h38.4", "v19.2" ] ],
+    [ "lcd1:D5", "uno1:9", "magenta", [ "v115.2", "h38.5" ] ],
+    [ "lcd1:D6", "uno1:8", "cyan", [ "v96", "h38.6" ] ],
+    [ "lcd1:D7", "uno1:7", "orange", [ "v76.8", "h38.7" ] ]
+  ],
+  "dependencies": {}
+}
