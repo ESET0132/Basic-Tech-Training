@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\bin\Debug\net8.0\BookShopManagementApp.exe
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\bin\Debug\net8.0\BookShopManagementApp.deps.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\bin\Debug\net8.0\BookShopManagementApp.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\bin\Debug\net8.0\BookShopManagementApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\bin\Debug\net8.0\BookShopManagementApp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.sourcelink.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\refint\BookShopManagementApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\BookShopManagementApp.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookShopManagementApp\obj\Debug\net8.0\ref\BookShopManagementApp.dll
