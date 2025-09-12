@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\bin\Debug\net8.0\Project-ConsoleApp.exe
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\bin\Debug\net8.0\Project-ConsoleApp.deps.json
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\bin\Debug\net8.0\Project-ConsoleApp.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\bin\Debug\net8.0\Project-ConsoleApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\bin\Debug\net8.0\Project-ConsoleApp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.sourcelink.json
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\refint\Project-ConsoleApp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\Project-ConsoleApp.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\dotNet\Project-ConsoleApp\obj\Debug\net8.0\ref\Project-ConsoleApp.dll

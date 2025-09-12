@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\Day1Project\bin\Debug\net8.0\Day1Project.exe
+C:\Users\user\Basic-Tech-Training\Day1Project\bin\Debug\net8.0\Day1Project.deps.json
+C:\Users\user\Basic-Tech-Training\Day1Project\bin\Debug\net8.0\Day1Project.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\Day1Project\bin\Debug\net8.0\Day1Project.dll
+C:\Users\user\Basic-Tech-Training\Day1Project\bin\Debug\net8.0\Day1Project.pdb
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.sourcelink.json
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.dll
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\refint\Day1Project.dll
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.pdb
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\Day1Project.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\Day1Project\obj\Debug\net8.0\ref\Day1Project.dll
