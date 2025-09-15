@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\bin\Debug\net8.0\ClassDemp.exe
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\bin\Debug\net8.0\ClassDemp.deps.json
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\bin\Debug\net8.0\ClassDemp.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\bin\Debug\net8.0\ClassDemp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\bin\Debug\net8.0\ClassDemp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.sourcelink.json
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\refint\ClassDemp.dll
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ClassDemp.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\dotNet\ClassDemp\obj\Debug\net8.0\ref\ClassDemp.dll
