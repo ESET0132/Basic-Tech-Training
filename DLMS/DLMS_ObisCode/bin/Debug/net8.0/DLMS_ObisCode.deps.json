@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DLMS_ObisCode/1.0.0": {
+        "runtime": {
+          "DLMS_ObisCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLMS_ObisCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

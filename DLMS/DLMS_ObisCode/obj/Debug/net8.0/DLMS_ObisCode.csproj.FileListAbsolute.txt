@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\bin\Debug\net8.0\DLMS_ObisCode.exe
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\bin\Debug\net8.0\DLMS_ObisCode.deps.json
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\bin\Debug\net8.0\DLMS_ObisCode.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\bin\Debug\net8.0\DLMS_ObisCode.dll
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\bin\Debug\net8.0\DLMS_ObisCode.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.sourcelink.json
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.dll
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\refint\DLMS_ObisCode.dll
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\DLMS_ObisCode.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\DLMS\DLMS_ObisCode\obj\Debug\net8.0\ref\DLMS_ObisCode.dll
