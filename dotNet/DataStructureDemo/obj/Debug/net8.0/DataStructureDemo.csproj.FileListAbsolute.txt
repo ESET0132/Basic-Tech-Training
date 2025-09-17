@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\bin\Debug\net8.0\DataStructureDemo.exe
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\bin\Debug\net8.0\DataStructureDemo.deps.json
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\bin\Debug\net8.0\DataStructureDemo.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\bin\Debug\net8.0\DataStructureDemo.dll
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\bin\Debug\net8.0\DataStructureDemo.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.sourcelink.json
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.dll
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\refint\DataStructureDemo.dll
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\DataStructureDemo.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\dotNet\DataStructureDemo\obj\Debug\net8.0\ref\DataStructureDemo.dll
