@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\bin\Debug\net8.0\BookManagementAppClasses.exe
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\bin\Debug\net8.0\BookManagementAppClasses.deps.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\bin\Debug\net8.0\BookManagementAppClasses.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\bin\Debug\net8.0\BookManagementAppClasses.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\bin\Debug\net8.0\BookManagementAppClasses.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.sourcelink.json
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\refint\BookManagementAppClasses.dll
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.pdb
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\BookManagementAppClasses.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\dotNet\BookManagementAppClasses\obj\Debug\net8.0\ref\BookManagementAppClasses.dll
