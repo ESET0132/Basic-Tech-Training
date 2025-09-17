@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\bin\Debug\net8.0\StudentClass_assignment.exe
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\bin\Debug\net8.0\StudentClass_assignment.deps.json
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\bin\Debug\net8.0\StudentClass_assignment.runtimeconfig.json
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\bin\Debug\net8.0\StudentClass_assignment.dll
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\bin\Debug\net8.0\StudentClass_assignment.pdb
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.AssemblyInfo.cs
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.dll
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\refint\StudentClass_assignment.dll
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.pdb
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\StudentClass_assignment.genruntimeconfig.cache
+C:\Users\user\source\repos\StudentClass_assignment\StudentClass_assignment\obj\Debug\net8.0\ref\StudentClass_assignment.dll
