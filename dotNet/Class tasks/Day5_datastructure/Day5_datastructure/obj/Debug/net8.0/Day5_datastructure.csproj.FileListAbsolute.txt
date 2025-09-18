@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\bin\Debug\net8.0\Day5_datastructure.exe
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\bin\Debug\net8.0\Day5_datastructure.deps.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\bin\Debug\net8.0\Day5_datastructure.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\bin\Debug\net8.0\Day5_datastructure.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\bin\Debug\net8.0\Day5_datastructure.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.sourcelink.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\refint\Day5_datastructure.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\Day5_datastructure.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day5_datastructure\Day5_datastructure\obj\Debug\net8.0\ref\Day5_datastructure.dll

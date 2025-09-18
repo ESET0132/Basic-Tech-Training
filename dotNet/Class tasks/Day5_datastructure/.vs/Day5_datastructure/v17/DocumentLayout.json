@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Basic-Tech-Training\\DLMS\\Day5_datastructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA34A32-6CDC-412D-9702-F02D7EB8F0AB}|Day5_datastructure\\Day5_datastructure.csproj|c:\\users\\user\\basic-tech-training\\dlms\\day5_datastructure\\day5_datastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA34A32-6CDC-412D-9702-F02D7EB8F0AB}|Day5_datastructure\\Day5_datastructure.csproj|solutionrelative:day5_datastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Basic-Tech-Training\\DLMS\\Day5_datastructure\\Day5_datastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_datastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Basic-Tech-Training\\DLMS\\Day5_datastructure\\Day5_datastructure\\Program.cs",
+              "RelativeToolTip": "Day5_datastructure\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:19:44.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
