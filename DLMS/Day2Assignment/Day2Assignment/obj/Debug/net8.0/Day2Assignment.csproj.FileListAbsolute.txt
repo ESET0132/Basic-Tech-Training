@@ -1,0 +1,15 @@
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\bin\Debug\net8.0\Day2Assignment.exe
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\bin\Debug\net8.0\Day2Assignment.deps.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\bin\Debug\net8.0\Day2Assignment.runtimeconfig.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\bin\Debug\net8.0\Day2Assignment.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\bin\Debug\net8.0\Day2Assignment.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.AssemblyInfoInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.AssemblyInfo.cs
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.sourcelink.json
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\refint\Day2Assignment.dll
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.pdb
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\Day2Assignment.genruntimeconfig.cache
+C:\Users\user\Basic-Tech-Training\DLMS\Day2Assignment\Day2Assignment\obj\Debug\net8.0\ref\Day2Assignment.dll
