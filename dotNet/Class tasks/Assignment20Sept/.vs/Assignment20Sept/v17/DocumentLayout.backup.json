@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Codes\\Basic-Tech-Training\\dotNet\\Class tasks\\Assignment20Sept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34438430-18FE-4A7F-9A3F-42300C31B815}|Assignment20Sept\\Assignment20Sept.csproj|c:\\users\\user\\codes\\basic-tech-training\\dotnet\\class tasks\\assignment20sept\\assignment20sept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34438430-18FE-4A7F-9A3F-42300C31B815}|Assignment20Sept\\Assignment20Sept.csproj|solutionrelative:assignment20sept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Codes\\Basic-Tech-Training\\dotNet\\Class tasks\\Assignment20Sept\\Assignment20Sept\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment20Sept\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Codes\\Basic-Tech-Training\\dotNet\\Class tasks\\Assignment20Sept\\Assignment20Sept\\Program.cs",
+              "RelativeToolTip": "Assignment20Sept\\Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:18:40.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
