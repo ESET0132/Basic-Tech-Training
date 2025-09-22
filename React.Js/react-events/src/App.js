@@ -4,6 +4,7 @@ import MouseEvents from './Components/MouseEvents';
 import FormEventsComponents from './Components/FormEventsComponents'; 
 import LoginComponent from './Components/LoginComponent'; // Import the LoginComponent
 import UseEffectComponent from './Components/UseEffectComponent';
+import ParentComponent from './Components/ParentComponent';
 
 function App() {
   const handleClick = () => {
@@ -11,12 +12,15 @@ function App() {
   };
 
   return (
+    <>
     <UseEffectComponent>
       <ButtonComponent onClick={handleClick} label="Click Me" />
       <MouseEvents />
       <FormEventsComponents />
       <LoginComponent /> 
       </UseEffectComponent>
+      <ParentComponent/>
+      </>
     
   );
 }
