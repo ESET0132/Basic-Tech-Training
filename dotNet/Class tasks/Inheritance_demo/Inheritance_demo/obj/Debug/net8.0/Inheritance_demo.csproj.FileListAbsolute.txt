@@ -1,0 +1,15 @@
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\bin\Debug\net8.0\Inheritance_demo.exe
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\bin\Debug\net8.0\Inheritance_demo.deps.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\bin\Debug\net8.0\Inheritance_demo.runtimeconfig.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\bin\Debug\net8.0\Inheritance_demo.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\bin\Debug\net8.0\Inheritance_demo.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.AssemblyInfoInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.AssemblyInfo.cs
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.csproj.CoreCompileInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.sourcelink.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\refint\Inheritance_demo.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\Inheritance_demo.genruntimeconfig.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Inheritance_demo\Inheritance_demo\obj\Debug\net8.0\ref\Inheritance_demo.dll
