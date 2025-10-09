@@ -1,0 +1,15 @@
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\bin\Debug\net8.0\Area.exe
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\bin\Debug\net8.0\Area.deps.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\bin\Debug\net8.0\Area.runtimeconfig.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\bin\Debug\net8.0\Area.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\bin\Debug\net8.0\Area.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.AssemblyInfoInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.AssemblyInfo.cs
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.sourcelink.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\refint\Area.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\Area.genruntimeconfig.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Area\Area\obj\Debug\net8.0\ref\Area.dll
