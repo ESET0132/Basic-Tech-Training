@@ -1,0 +1,15 @@
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\bin\Debug\net8.0\Linq_example.exe
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\bin\Debug\net8.0\Linq_example.deps.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\bin\Debug\net8.0\Linq_example.runtimeconfig.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\bin\Debug\net8.0\Linq_example.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\bin\Debug\net8.0\Linq_example.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.AssemblyInfoInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.AssemblyInfo.cs
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.csproj.CoreCompileInputs.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.sourcelink.json
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\refint\Linq_example.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.pdb
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\Linq_example.genruntimeconfig.cache
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\Linq_example\Linq_example\obj\Debug\net8.0\ref\Linq_example.dll
