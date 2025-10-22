@@ -12,9 +12,14 @@ namespace RestaurantApi.Models.Entities
         public decimal TotalAmount { get; set; }
         public string Status { get; set; } = "Pending";
         public int RestaurantId { get; set; }
+        public int? CustomerId { get; set; } // Foreign key to User (optional for guest orders)
 
+        // Navigation properties
         [JsonIgnore]
         public virtual Restaurant Restaurant { get; set; } = null!;
+
+        [JsonIgnore]
+        public virtual User? Customer { get; set; }
 
         [JsonIgnore]
         public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();

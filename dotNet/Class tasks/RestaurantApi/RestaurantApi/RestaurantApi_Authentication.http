@@ -1,0 +1,231 @@
+### Restaurant API - JWT Authentication Test File
+### This file contains examples of how to use the authenticated endpoints
+
+### Variables
+@baseUrl = https://localhost:7000
+@customerToken = 
+@restaurantOwnerToken = 
+@adminToken = 
+
+### 1. REGISTRATION ENDPOINTS
+
+### Register a Customer
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "customer@example.com",
+  "password": "password123",
+  "firstName": "John",
+  "lastName": "Doe",
+  "phoneNumber": "+1234567890",
+  "role": "Customer"
+}
+
+### Register a Restaurant Owner
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "owner@restaurant.com",
+  "password": "password123",
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "phoneNumber": "+1234567891",
+  "role": "RestaurantOwner"
+}
+
+### Register an Admin
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "admin@restaurant.com",
+  "password": "password123",
+  "firstName": "Admin",
+  "lastName": "User",
+  "phoneNumber": "+1234567892",
+  "role": "Admin"
+}
+
+### 2. LOGIN ENDPOINTS
+
+### Login as Customer
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "customer@example.com",
+  "password": "password123"
+}
+
+### Login as Restaurant Owner
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "owner@restaurant.com",
+  "password": "password123"
+}
+
+### Login as Admin
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@restaurant.com",
+  "password": "password123"
+}
+
+### 3. GET CURRENT USER INFO
+
+### Get current user info (requires authentication)
+GET {{baseUrl}}/api/auth/me
+Authorization: Bearer {{customerToken}}
+
+### 4. PUBLIC ENDPOINTS (No authentication required)
+
+### Get all restaurants
+GET {{baseUrl}}/api/restaurants
+
+### Get specific restaurant
+GET {{baseUrl}}/api/restaurants/1
+
+### Get all menus
+GET {{baseUrl}}/api/menus
+
+### Get specific menu
+GET {{baseUrl}}/api/menus/1
+
+### Get menus by restaurant
+GET {{baseUrl}}/api/menus/restaurant/1
+
+### 5. CUSTOMER ENDPOINTS (Requires Customer role)
+
+### Create a new order (Customer only)
+POST {{baseUrl}}/api/orders
+Authorization: Bearer {{customerToken}}
+Content-Type: application/json
+
+{
+  "customerName": "John Doe",
+  "customerPhone": "+1234567890",
+  "customerEmail": "customer@example.com",
+  "orderDate": "2024-01-15T12:00:00Z",
+  "totalAmount": 25.50,
+  "status": "Pending",
+  "restaurantId": 1,
+  "orderItems": [
+    {
+      "quantity": 2,
+      "unitPrice": 12.75,
+      "menuId": 1
+    }
+  ]
+}
+
+### Get my orders (Customer only)
+GET {{baseUrl}}/api/orders/my-orders
+Authorization: Bearer {{customerToken}}
+
+### 6. RESTAURANT OWNER ENDPOINTS (Requires RestaurantOwner role)
+
+### Create a new restaurant (Restaurant Owner or Admin only)
+POST {{baseUrl}}/api/restaurants
+Authorization: Bearer {{restaurantOwnerToken}}
+Content-Type: application/json
+
+{
+  "name": "My Restaurant",
+  "address": "123 Main St, City, State 12345",
+  "phone": "+1234567890",
+  "email": "info@myrestaurant.com",
+  "openingDate": "2024-01-01T00:00:00Z"
+}
+
+### Get my restaurants (Restaurant Owner or Admin only)
+GET {{baseUrl}}/api/restaurants/my-restaurants
+Authorization: Bearer {{restaurantOwnerToken}}
+
+### Create a new menu item (Restaurant Owner or Admin only)
+POST {{baseUrl}}/api/menus
+Authorization: Bearer {{restaurantOwnerToken}}
+Content-Type: application/json
+
+{
+  "name": "Pizza Margherita",
+  "description": "Classic pizza with tomato, mozzarella, and basil",
+  "price": 12.99,
+  "category": "Pizza",
+  "isAvailable": true,
+  "restaurantId": 1
+}
+
+### Get orders for my restaurant (Restaurant Owner or Admin only)
+GET {{baseUrl}}/api/orders/restaurant/1
+Authorization: Bearer {{restaurantOwnerToken}}
+
+### 7. ADMIN ENDPOINTS (Requires Admin role)
+
+### Get all orders (Admin only)
+GET {{baseUrl}}/api/orders
+Authorization: Bearer {{adminToken}}
+
+### 8. TESTING INVALID REQUESTS
+
+### Try to access protected endpoint without token
+GET {{baseUrl}}/api/orders/my-orders
+
+### Try to access admin endpoint with customer token
+GET {{baseUrl}}/api/orders
+Authorization: Bearer {{customerToken}}
+
+### Try to create restaurant with customer token
+POST {{baseUrl}}/api/restaurants
+Authorization: Bearer {{customerToken}}
+Content-Type: application/json
+
+{
+  "name": "Unauthorized Restaurant",
+  "address": "123 Fake St",
+  "phone": "+1234567890",
+  "email": "fake@restaurant.com",
+  "openingDate": "2024-01-01T00:00:00Z"
+}
+
+### 9. ERROR HANDLING EXAMPLES
+
+### Try to register with existing email
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "customer@example.com",
+  "password": "password123",
+  "firstName": "Duplicate",
+  "lastName": "User",
+  "role": "Customer"
+}
+
+### Try to login with wrong credentials
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "customer@example.com",
+  "password": "wrongpassword"
+}
+
+### Try to create menu for restaurant you don't own
+POST {{baseUrl}}/api/menus
+Authorization: Bearer {{customerToken}}
+Content-Type: application/json
+
+{
+  "name": "Unauthorized Menu",
+  "description": "This should fail",
+  "price": 9.99,
+  "category": "Test",
+  "isAvailable": true,
+  "restaurantId": 1
+}

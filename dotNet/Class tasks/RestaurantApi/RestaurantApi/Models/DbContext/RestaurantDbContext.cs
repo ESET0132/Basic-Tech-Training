@@ -9,6 +9,7 @@ namespace RestaurantApi.Models.DbContext
         {
         }
 
+        public DbSet<User> Users { get; set; }
         public DbSet<Restaurant> Restaurants { get; set; }
         public DbSet<Menu> Menus { get; set; }
         public DbSet<Order> Orders { get; set; }
@@ -16,7 +17,41 @@ namespace RestaurantApi.Models.DbContext
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-           
+            // User entity configuration
+            modelBuilder.Entity<User>()
+                .Property(u => u.Email)
+                .HasMaxLength(100)
+                .IsRequired();
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.PasswordHash)
+                .HasMaxLength(255)
+                .IsRequired();
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.FirstName)
+                .HasMaxLength(50)
+                .IsRequired();
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.LastName)
+                .HasMaxLength(50)
+                .IsRequired();
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.PhoneNumber)
+                .HasMaxLength(20);
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.Role)
+                .HasMaxLength(20)
+                .IsRequired();
+
+            modelBuilder.Entity<User>()
+                .HasIndex(u => u.Email)
+                .IsUnique();
+
+            // Menu entity configuration
             modelBuilder.Entity<Menu>()
                 .Property(m => m.Price)
                 .HasPrecision(18, 2); 
@@ -101,6 +136,19 @@ namespace RestaurantApi.Models.DbContext
                 .WithOne(oi => oi.Menu)
                 .HasForeignKey(oi => oi.MenuId)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            // User relationships
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.OwnedRestaurants)
+                .WithOne(r => r.Owner)
+                .HasForeignKey(r => r.OwnerId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.Orders)
+                .WithOne(o => o.Customer)
+                .HasForeignKey(o => o.CustomerId)
+                .OnDelete(DeleteBehavior.SetNull);
 
             base.OnModelCreating(modelBuilder);
         }

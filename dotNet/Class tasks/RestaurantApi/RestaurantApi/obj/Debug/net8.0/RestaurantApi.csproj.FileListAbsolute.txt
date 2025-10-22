@@ -126,10 +126,12 @@ C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\Restaur
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\Restaura.085411AD.Up2Date
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\RestaurantApi.dll
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\refint\RestaurantApi.dll
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\RestaurantApi.pdb
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\RestaurantApi.genruntimeconfig.cache
 C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\ref\RestaurantApi.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Codes\Basic-Tech-Training\dotNet\Class tasks\RestaurantApi\RestaurantApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
